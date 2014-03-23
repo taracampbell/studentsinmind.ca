@@ -1,0 +1,12 @@
+body {
+  margin-bottom: 0px;
+  color: #fff;
+}
+
+.lead a {
+  color: #63FFCB;
+}
+
+.lead a:hover {
+  color: #fff;
+}
