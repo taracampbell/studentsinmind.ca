@@ -274,7 +274,12 @@ body {
 
 .icon-container {
   text-align: center;
-  margin-top: -50px;
+  position: absolute;
+  bottom: 6%;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
 }
 
 #about header{
